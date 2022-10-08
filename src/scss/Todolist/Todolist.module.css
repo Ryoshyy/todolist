@@ -1,0 +1,15 @@
+h1 {
+  margin: 0;
+  align-self: center;
+  display: flex;
+  justify-content: center;
+}
+
+ul {
+  display: flex;
+  width: 500px;
+  flex-direction: column;
+  list-style: none;
+  margin: 0;
+  padding: 0;
+}/*# sourceMappingURL=Todolist.module.css.map */
